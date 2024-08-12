@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ContactImage from '@/app/_assets/Contact.png';
+import ContactImage from '../_assets/contact.png';
 import { FaWhatsapp } from "react-icons/fa";
 import Link from "next/link";
 
